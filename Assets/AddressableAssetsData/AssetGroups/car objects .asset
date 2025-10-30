@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: 'car objects '
+  m_EditorClassIdentifier: 
+  m_GroupName: 'car objects '
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 8ce785b5cc9df074c8dd163b1f7f2b91
+  m_SerializeEntries:
+  - m_GUID: 228a0e370357f7948b9e761bdebbc691
+    m_Address: Assets/cars/cars/GameCars/Car_6.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 6
+    - Drift
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2e34d57318fda244eaee3707856b8c22
+    m_Address: Assets/cars/cars/GameCars/Car_7.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 7
+    - Drift
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3895a1db471f9bc45850c8eeedd920f3
+    m_Address: Assets/cars/cars/GameCars/10.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 10
+    - Race
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4d241bb8a69d76b45a8917780452c398
+    m_Address: Assets/cars/cars/GameCars/Car_2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 1
+    - Race
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5a1e2162c8a5eec4690ced3c2657b2b8
+    m_Address: Assets/cars/cars/GameCars/Car_3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 3
+    - Race
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6e2d7346ccbc3db40ace87b5aad23816
+    m_Address: Assets/cars/cars/GameCars/Car_8.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 8
+    - Race
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 85af3b514fcc348448363aaeae15a08e
+    m_Address: Assets/cars/cars/GameCars/2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 2
+    - Drift
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9777f8f89eacad64a9eccd0184ed27f3
+    m_Address: Assets/cars/cars/GameCars/4.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 4
+    - Drift
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e2858dffe9ddd7d4b8f1b3cd31eedaf5
+    m_Address: Assets/cars/cars/GameCars/Car_9.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 9
+    - Race
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ee2d8ebc67873dd40bb65028ae814269
+    m_Address: Assets/cars/cars/GameCars/Car_5.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5
+    - Drift
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: ca303054c8ad81d45bb0ef6779667da6, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 976cf60b806537c4d8da8fe09a5c09a1, type: 2}
+    - {fileID: 11400000, guid: 3dc2a1aa742eeb54ca6ed592a513f617, type: 2}

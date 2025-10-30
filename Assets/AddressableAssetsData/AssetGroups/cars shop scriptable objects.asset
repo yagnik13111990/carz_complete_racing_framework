@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: cars shop scriptable objects
+  m_EditorClassIdentifier: 
+  m_GroupName: cars shop scriptable objects
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 7dafde1d3f0582e4381032791e7c32c4
+  m_SerializeEntries:
+  - m_GUID: 2aec872d376d38d4d887920c3cab0b42
+    m_Address: CarSO_09
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - car scriptable obj
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 425f35ba7eb7eb5448b7b8f9cb2ab581
+    m_Address: CarSO_05
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - car scriptable obj
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 433fb4e955067ee46b9e7d20fd0eb0d1
+    m_Address: CarSO_07
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - car scriptable obj
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5766d19940b3cec4ab3317e04bfd3f6c
+    m_Address: CarSO_06
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - car scriptable obj
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 68eb7c76f09ac46409838ea1d06c999d
+    m_Address: CarSO_04
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - car scriptable obj
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a472ce0237d1f614fa62ae4bbbef4567
+    m_Address: CarSO_03
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - car scriptable obj
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c6c2957dcc8e141488286427901c16cb
+    m_Address: CarSO_08
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - car scriptable obj
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d9cadf4c95f9da941b004b7b4db7e434
+    m_Address: CarSO_02
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - car scriptable obj
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dc422a44488e71c42ab620d1afa290be
+    m_Address: CarSO_01
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - car scriptable obj
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fac71bd343b058545b62f314547f8d7d
+    m_Address: CarSO_10
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - car scriptable obj
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: ca303054c8ad81d45bb0ef6779667da6, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 4bf5bfb466e3a294e8f02945b7bfc206, type: 2}
+    - {fileID: 11400000, guid: 69050f4ef251e1946ad60899a40f9b05, type: 2}

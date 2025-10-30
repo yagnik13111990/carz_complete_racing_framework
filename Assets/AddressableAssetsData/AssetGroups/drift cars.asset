@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: drift cars
+  m_EditorClassIdentifier: 
+  m_GroupName: drift cars
+  m_Data:
+    m_SerializedData: []
+  m_GUID: d8ace1e11e164d343b24336cc377c4b6
+  m_SerializeEntries:
+  - m_GUID: 026d2586399d46b46a419162f45301bd
+    m_Address: Assets/cars/cars/GameCars/Drift Car 2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - AI Drift 2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3a0b7306ccc5d4c4ab00af2616844a00
+    m_Address: Assets/cars/cars/GameCars/Drift Car 6.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - AI Drift 6
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4218a8d10eb542e41b61c5e2cf9b1b21
+    m_Address: Assets/cars/cars/GameCars/Drift Car 7.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - AI Drift 7
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 582948022b9293c438a9348627272c4b
+    m_Address: Assets/cars/cars/GameCars/Drift Car 5.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - AI Drift 5
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7d47a711d373bba4489f3d5d2e3016e1
+    m_Address: Assets/cars/cars/GameCars/Drift Car 4.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - AI Drift 4
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: ca303054c8ad81d45bb0ef6779667da6, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 06f0e43f69e4f174384bb933ca4ebaae, type: 2}
+    - {fileID: 11400000, guid: 4fdd00bd84721154697c2477726c62ea, type: 2}
