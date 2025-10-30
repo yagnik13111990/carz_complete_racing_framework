@@ -69,8 +69,8 @@ This isn’t just a game — it’s a complete racing game foundation that can p
 --- Level Selection & Creation ---
 
 -> Runtime level generation system
-   Supports countless levels without predefined limits with integration of Json data assignment
-   Level UI items built dynamically using the Builder Pattern and Json Data 
+   - Supports countless levels without predefined limits with integration of Json data assignment
+   - Level UI items built dynamically using the Builder Pattern and Json Data 
 
 -> Automatic saving/loading of progress and unlocked levels
 
@@ -80,15 +80,15 @@ This isn’t just a game — it’s a complete racing game foundation that can p
 --- Camera System (Strategy Pattern)---
 
 -> Dynamic runtime camera switching
-   Strategy-based implementation allows flexible transitions
-   (e.g., bonnet, bird eye cam, drone cam , orbital cam)
+   - Strategy-based implementation allows flexible transitions
+     (e.g., bonnet, bird eye cam, drone cam , orbital cam)
 
  <br><br><br>
 
 --- Saving & Loading System ---
 
 -> Persistent data across the entire game using NewtonSoft JSON serialization
-   Handles progress, player data, unlocked levels, car setup, race stats and settings stats
+   - Handles progress, player data, unlocked levels, car setup, race stats and settings stats
 
 
 <br><br><br>
@@ -96,7 +96,8 @@ This isn’t just a game — it’s a complete racing game foundation that can p
 --- Race Result Management ---
 
 -> Dynamic scoring system based on race type
-   Event-driven result generation for Elimination, Time Trial, etc.
+   - Event-driven result generation for Elimination, Time Trial, etc.
+   - Race Progression tracking during the race
    
 <br><br><br>
 
@@ -140,6 +141,6 @@ This isn’t just a game — it’s a complete racing game foundation that can p
 
 --- Future Extensions ---
 
-Multiplayer (Photon or Netcode for GameObjects)
-Advanced replay camera system
-Dynamic weather & track surface simulation
+-> Multiplayer (Photon or Netcode for GameObjects)
+-> Advanced replay camera system
+-> Dynamic weather & track surface simulation
